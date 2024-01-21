@@ -1,6 +1,6 @@
 class AppInformation {
-  static const name = 'tk_counter_reset';
-  static const title = 'Tk_counter_reset';
+  static const name = 'toner_kit_counter_reader_nfc';
+  static const title = 'toner_kit_counter_reader_nfc';
   static const appIdAndroid = "";
   static const appIdIos = "";
   static const masterAdminEmail = "";

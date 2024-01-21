@@ -1,3 +1,3 @@
 const Map<String, String> ar = {
-  'homeTitle': 'Tk_counter_reset',
+  'homeTitle': 'toner_kit_counter_reader_nfc',
 };

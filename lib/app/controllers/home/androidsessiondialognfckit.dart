@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_nfc_kit/flutter_nfc_kit.dart';
 import 'package:lottie/lottie.dart';
-import 'package:tk_counter_reset/app/ui/utils/utils.dart';
+import 'package:toner_kit_counter_reader_nfc/app/ui/utils/utils.dart';
 
 class AndroidSessionDialogNfcKit extends StatefulWidget {
   // ignore: use_key_in_widget_constructors

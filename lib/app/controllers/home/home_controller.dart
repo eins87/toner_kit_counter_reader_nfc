@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_nfc_kit/flutter_nfc_kit.dart';
 import 'package:get/get.dart';
 // import 'package:get_storage/get_storage.dart';
-import 'package:tk_counter_reset/app/controllers/home/unavailabledialog.dart';
+import 'package:toner_kit_counter_reader_nfc/app/controllers/home/unavailabledialog.dart';
 
 // import '../../data/models/dummy.dart';
 import 'androidsessiondialognfckit.dart';

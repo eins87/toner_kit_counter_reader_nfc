@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
     return ScreenUtilInit(
       builder: (_, __) {
         return GetMaterialApp(
-          title: 'Tk_counter_reset',
+          title: 'toner_kit_counter_reader_nfc',
           debugShowCheckedModeBanner: false,
           theme: Themes().lightTheme,
           darkTheme: Themes().darkTheme,
